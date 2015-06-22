@@ -38,7 +38,7 @@ public class FullTextSearchParams {
 	private int startNums = 0;
 	
 	// page display line nums
-	private int pageNum =0
+	private int pageNum =0;
 			
 	private boolean isFacet = false;
 	
